@@ -1,5 +1,5 @@
 # Server-side-with-Kotlin
-* A server side application that authenticates users and allows a Todo task to be created by a user.
+* A server side application built with the [Ktor framework](https://ktor.io) that authenticates users and allows a Todo task to be created by a user.
 * Clone the repository and run server at port http://0.0.0.0:8080/
 
 
